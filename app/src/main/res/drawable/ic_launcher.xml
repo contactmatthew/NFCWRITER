@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#050914" />
+        </shape>
+    </item>
+    <item android:left="12dp" android:top="12dp" android:right="12dp" android:bottom="12dp">
+        <bitmap android:src="@drawable/taptag_logo" android:gravity="fill" />
+    </item>
+</layer-list>
